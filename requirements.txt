@@ -1,0 +1,6 @@
+gradio
+transformers
+torch
+sentence-transformers
+chromadb
+python-docx
